@@ -1,2 +1,2 @@
 # DigitalersBootcampJavaDevChallenges
-Here I'll upload the challenges realized in the Bootcap that was created by Telecom and EducaciónIT
+Here I'll upload the challenges realized in the Java Bootcap that was created by Telecom and EducaciónIT
